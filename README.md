@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Smart stroller breaking service using arduino, hall sensor
+> Smart stroller breaking service using arduino & hall sensor
 
 ## 🤝 Contributing
 
